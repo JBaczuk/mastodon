@@ -231,3 +231,4 @@ class MediaAttachment < ApplicationRecord
     }
   end
 end
+
